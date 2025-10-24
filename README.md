@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Virendra Kumar – aka Cyber Mr. Leelawat
+# 👋 Hi, I'm Virendra Kumar – aka Mr. Leelawat
 
 🚀 Founder & CEO of **Cyberleelawat** | 🛡️ Cyber Security Expert | 📚 Author | 🎥 YouTuber  
 📍 From **Phalodi, Rajasthan** | Teaching **Cyber Security in Hinglish** 🇮🇳
