@@ -13,7 +13,7 @@ With a deep interest in **bug bounty hunting**, I specialize in identifying vuln
 
 At **Cyber Leelawa**, I’ve trained thousands of students and professionals in **Ethical Hacking, Web Penetration Testing, and Bug Bounty**, focusing on **practical, real-world learning** through **Hinglish-based education**.  
 
-💼 **Founder & CEO @ Cyber Leelawa | ISO 9001:2015 Certified | Cyber Security Educator**
+💼 **Founder & CEO Cyber Leelawat | ISO 9001:2015 Certified | Cyber Security Educator**
 
 ---
 
