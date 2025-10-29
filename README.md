@@ -56,11 +56,14 @@ At **Cyber Leelawa**, I’ve trained thousands of students and professionals in 
 
 ## 📊 GitHub Stats
 <div align="center">
-
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyberleelawat&theme=github_dark" />
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberleelawat&theme=github-dark-blue" />
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cyberleelawat&show_icons=true&theme=github_dark&hide_border=false" />
 </div>
+
+---
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyberleelawat" alt="cyberleelawat" /></a> </p>
+<p align="left"> <a href="https://twitter.com/cyberleelawat" target="blank"><img src="https://img.shields.io/twitter/follow/cyberleelawat?logo=twitter&style=for-the-badge" alt="cyberleelawat" /></a> </p>
 
 ---
 
